@@ -4,9 +4,9 @@ I'm a Python programmer. I also have some experience with php, MySQL and I'm ver
 
 <h3>Popular Projects</h3>
 <ul>
-  <li>[<a href="https://github.com/Toyirov-Dev/text-bomber">]      Text Bomber</a>: This program sends text messages, like an SMS bomber.</li>
-  <li>[<a href="https://github.com/Toyirov-Dev/Image-converter">]  Image Converter</a>: Converts images to other image formats.</li>
-  <li>[<a href="https://github.com/Toyirov-Dev/TINY-craft">]       Tiny-craft</a>: A clone of the Minecraft game.</li>
+  <li><a href="https://github.com/Toyirov-Dev/text-bomber">     Text Bomber</a>: This program sends text messages, like an SMS bomber.</li>
+  <li><a href="https://github.com/Toyirov-Dev/Image-converter">  Image Converter</a>: Converts images to other image formats.</li>
+  <li><a href="https://github.com/Toyirov-Dev/TINY-craft">      Tiny-craft</a>: A clone of the Minecraft game.</li>
 </ul>
 
 <h3>Skills</h3>
