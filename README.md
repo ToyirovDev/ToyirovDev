@@ -13,7 +13,6 @@ I'm a Python programmer. I also have some experience with php, MySQL and I'm ver
   <li>Python</li>
   <li>php</li>
   <li>HTML</li>
-  <li>MySQL</li>
   <li>2D Game development</li>
 </ul>
 
