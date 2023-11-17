@@ -18,5 +18,5 @@ I'm a Python programmer. I also have some experience with php, MySQL and I'm ver
 
 <h3>Contact me</h3>
 <li>[Twitter][X]   https://twitter.com/Toyirov_Dev /li>
-<li>[Telegram]     https://t.me/Toyirov_Dev /li>
+<li>[Telegram]     https://t.me/Toyirov_Dev 
 <li>[Email]        tylernicky404@gmail.com /li>
