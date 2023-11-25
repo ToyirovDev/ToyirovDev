@@ -4,6 +4,7 @@ I'm a Python programmer. I also have some experience with php, MySQL and I'm ver
 
 <h3>Popular Projects</h3>
 <ul>
+  <li><a href="https://github.com/ToyirovDev/Reverse-shell">   Reverse-shell</a>: Python socket reverse-shell.</li>
   <li><a href="https://github.com/ToyirovDev/text-bomber">     Text Bomber</a>: This program sends text messages, like an SMS bomber.</li>
   <li><a href="https://github.com/ToyirovDev/TINY-craft">      Tiny-craft</a>: A clone of the Minecraft game.</li>
 </ul>
@@ -13,7 +14,7 @@ I'm a Python programmer. I also have some experience with php, MySQL and I'm ver
   <li>Python</li>
   <li>php</li>
   <li>HTML</li>
-  <li>2D Game development</li>
+  <li>Cyber security</li>
 </ul>
 
 <h3>Contact me</h3>
