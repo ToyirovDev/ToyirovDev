@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Toyirov-Dev 👋</h1>
 
-I'm a Python programmer. I also have some experience with php, MySQL and I'm very interested in game development 3d modelling.
+I'm a Python programmer. I also have some experience with php, MySQL and I'm very interested in game development, 3d modelling.
 
 <h3>Popular Projects</h3>
 <ul>
