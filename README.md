@@ -6,7 +6,6 @@ I'm a Python programmer. I also have some experience with php, MySQL and I'm ver
 <ul>
   <li><a href="https://github.com/ToyirovDev/Reverse-shell">   Reverse-shell</a>: Python socket reverse-shell.</li>
   <li><a href="https://github.com/ToyirovDev/text-bomber">     Text Bomber</a>: This program sends text messages, like an SMS bomber.</li>
-  <li><a href="https://github.com/ToyirovDev/TINY-craft">      Tiny-craft</a>: A clone of the Minecraft game.</li>
 </ul>
 
 <h3>Skills</h3>
